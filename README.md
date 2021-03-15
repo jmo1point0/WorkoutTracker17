@@ -13,7 +13,7 @@ Download or clone repository. Do a Npm install to install the required npm packa
 
 ### Usage: 
 
-Application will be invoked by using the following command: node server.js Open your browser and go to http://localhost:8080
+Application will be invoked by using the following command: node server.js Open your browser and go to localhost:8080
 
 
  ### Contributing: 
