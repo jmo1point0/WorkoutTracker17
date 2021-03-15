@@ -1,18 +1,24 @@
 # WorkoutTracker17
 
-# Project Title: ReadME Generator
+
+### Description: 
+
+The fitness app allows users to create view and track daily workouts.
 
 
-### Description: The fitness app allows users to create view and track daily workouts.
+### Installation:  
+
+Download or clone repository. Do a Npm install to install the required npm packages to run
 
 
-### Installation:  Download or clone repository. Do a Npm install to install the required npm packages to run
+### Usage: 
+
+Application will be invoked by using the following command: node server.js Open your browser and go to http://localhost:8080
 
 
-### Usage: Application will be invoked by using the following command: node server.js Open your browser and go to http://localhost:8080
-
-
- ### Contributing:  Contributions made by Jordan Mossing using various technolgies.
+ ### Contributing: 
+ 
+  Contributions made by Jordan Mossing using various technolgies.
 
 
  ### Screenshot: 
